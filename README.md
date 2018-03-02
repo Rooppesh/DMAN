@@ -1,2 +1,2 @@
 A Disaster Management Application
-Developed by myself and Bhargav Krish, CEG, Anna University
+Developed by Myself, Rahul Seetharam & Bhargav Krish, CEG, Anna University
